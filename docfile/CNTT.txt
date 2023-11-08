@@ -1,0 +1,587 @@
+21020011,Ka,Thi,13-8-2000,Cong nghe thong tin,Tra Vinh
+21020758,Le Quang,Bac,14-5-2000,Cong nghe thong tin,Vinh Phuc
+21021902,Tran Thanh,Sang,17-9-1999,Cong nghe thong tin,Quang Binh
+31020080,Nguyen Hoang,Trung,13-12-1999,Cong nghe thong tin,Dong Nai
+31020658,Nguyen Thi Diem,Thuong,29-11-1999,Cong nghe thong tin,Vinh Phuc
+31021203,Tran Nguyen Thuy,Duong,30-6-1999,Cong nghe thong tin,Dong Nai
+31021360,Le Quang,Duy,24-6-1999,Cong nghe thong tin,Soc Trang
+31021696,Le Cong Quoc,Tuan,11-5-1999,Cong nghe thong tin,Quang Ngai
+31021795,Tu Thi Yen,Nhi,3-12-1999,Cong nghe thong tin,Dong Nai
+31022070,Nguyen Quoc,Bao,27-3-1999,Cong nghe thong tin,Binh Duong
+31022073,Nguyen Hoang Anh,Thu,12-9-1999,Cong nghe thong tin,Quang Ngai
+31022298,Nguyen Huu,Thang,31-1-1999,Cong nghe thong tin,Bac Giang
+31022303,Nguyen Cam,Huong,18-7-1999,Cong nghe thong tin,Ben Tre
+31022494,Nguyen Ngoc,Nguyen,14-5-1999,Cong nghe thong tin,Tra Vinh
+31022659,Nguyen Thien,Thanh,4-4-1999,Cong nghe thong tin,Phu Yen
+31023048,Huynh Huy Yen,Anh,20-6-1999,Cong nghe thong tin,Thua Thien - Hue
+31023402,Nguyen Thi Hoang,Dung,16-1-2000,Cong nghe thong tin,Binh Thuan
+31023516,Le Thi Yen,Nhi,21-2-1999,Cong nghe thong tin,Gia Lai
+31023788,Xayyasane,Choulaphon,21-1-2000,Cong nghe thong tin,Ha Nam
+41020011,Nguyen Thanh,Nhan,13-11-2000,Cong nghe thong tin,Kien Giang
+41020014,Vy Danh,Dang,12-8-2000,Cong nghe thong tin,Ben Tre
+41020025,Bui Thi Thao,Trinh,10-9-2000,Cong nghe thong tin,Ninh Thuan
+41020094,Nguyen Thi Ngoc,Lan,5-7-2000,Cong nghe thong tin,Quang Ninh
+41020098,Nguyen Huu Minh,Phu,17-4-2000,Cong nghe thong tin,Phu Yen
+41020157,Cao Tuan,Anh,9-9-2000,Cong nghe thong tin,Can Tho
+41020194,Nguyen Thi Kieu,Oanh,1-10-1999,Cong nghe thong tin,Phu Yen
+41020195,Tran Nhu Kim,Su,11-10-1995,Cong nghe thong tin,Bac Lieu
+41020256,Chau Huynh,Khang,8-1-2000,Cong nghe thong tin,Lao Cai
+41020282,Chung Thoai,Chuong,16-4-2000,Cong nghe thong tin,Dong Nai
+41020323,Nguyen Thi Thanh,Thao,10-12-2000,Cong nghe thong tin,Phu Yen
+41020324,Tran Thi Kieu,Loan,24-2-2000,Cong nghe thong tin,Thai Binh
+41020365,Trinh Thi Thuy,Duong,28-10-2000,Cong nghe thong tin,Thua Thien - Hue
+41020373,Le Thi,Hiep,19-10-2000,Cong nghe thong tin,Gia Lai
+41020379,Tran Thi Khanh,Vy,19-12-2000,Cong nghe thong tin,Phu Yen
+41020419,Phan Xuan,Mai,5-7-2000,Cong nghe thong tin,Gia Lai
+41020435,Nguyen Thi Ngoc,Huyen,18-9-1999,Cong nghe thong tin,Phu Yen
+41020447,Hap Tien,Linh,23-12-2000,Cong nghe thong tin,Ba Ria - Vung Tau
+41020471,Le Ngoc Thuy,Duong,8-2-2000,Cong nghe thong tin,Ha Nam
+41020536,Nguyen Tien,Tu,16-1-2000,Cong nghe thong tin,Ha Giang
+41020562,Pham Hoang,Hao,24-3-1999,Cong nghe thong tin,Hoa Binh
+41020591,Huynh Ba,Thong,31-7-2000,Cong nghe thong tin,Ha Giang
+41020613,Pham Thai,Dang,6-8-2000,Cong nghe thong tin,Dak Nong
+41020660,Nguyen Nguyen Thai,Thanh,23-10-2000,Cong nghe thong tin,Thanh Hoa
+41020692,Tran Thi Tu,Linh,25-8-2000,Cong nghe thong tin,Dak Lak
+41020717,Truong Thi Minh,Thu,14-1-2000,Cong nghe thong tin,Lang Son
+41020729,Duong Dieu,Hoang,15-8-2000,Cong nghe thong tin,Binh Thuan
+41020732,Pham Van,Giang,7-8-2000,Cong nghe thong tin,Thanh Hoa
+41020735,Nguyen Thao,Vy,8-3-2000,Cong nghe thong tin,Quang Ngai
+41020758,Pham Huynh Bao,Han,28-5-2000,Cong nghe thong tin,Ca Mau
+41020766,Pham Thi,Phan,30-12-2000,Cong nghe thong tin,Thua Thien - Hue
+41020768,Le Nguyen,Hao,24-10-2000,Cong nghe thong tin,Dien Bien
+41020774,Doan Thi Nhu,Hang,17-3-2000,Cong nghe thong tin,Quang Binh
+41020793,Nguyen Thi My,Dung,23-4-2000,Cong nghe thong tin,Ben Tre
+41020869,Cao Hong,Nhi,23-10-2000,Cong nghe thong tin,Binh Phuoc
+41020893,Nguyen Minh,Tram,21-10-2000,Cong nghe thong tin,Dak Nong
+41020918,Nguyen Thi Huong,Ly,25-5-2000,Cong nghe thong tin,Bac Lieu
+41020989,Y Khuol Nie,Eban,18-3-2000,Cong nghe thong tin,Nghe An
+41021032,Pham Nguyen Mai,Ngoc,11-11-2000,Cong nghe thong tin,Bac Lieu
+41021039,Vo Thi Minh,Thuy,31-3-2000,Cong nghe thong tin,Binh Dinh
+41021086,Doan Thanh,Nhat,21-10-2000,Cong nghe thong tin,Ha Noi
+41021098,Nguyen Thi Nhu,Thao,9-2-2000,Cong nghe thong tin,Quang Ninh
+41021203,Nguyen Trong,Nghia,13-10-1999,Cong nghe thong tin,Binh Duong
+41021271,Nguyen Thi Diem,My,4-11-1999,Cong nghe thong tin,Quang Binh
+41021324,Le Tran Boi,Quynh,12-8-2000,Cong nghe thong tin,Quang Tri
+41021333,Nong Thi,Lien,18-2-1999,Cong nghe thong tin,Binh Phuoc
+41021338,Nguyen Thi Thuy,Duong,3-1-2000,Cong nghe thong tin,Ninh Binh
+41021399,Nguyen Yen,Vi,15-3-2000,Cong nghe thong tin,Phu Yen
+41021434,Nguyen Thi Thanh,Thuan,18-9-2000,Cong nghe thong tin,Ben Tre
+41021439,Tran Hoang Tran,Le,27-2-2000,Cong nghe thong tin,Binh Duong
+41021458,Nguyen Thi Thu,Huynh,20-8-2000,Cong nghe thong tin,Ninh Binh
+41021463,Chu Thi Thanh,Thuy,17-3-2000,Cong nghe thong tin,Ha Nam
+41021466,Le Thi Kim,Lien,11-11-2000,Cong nghe thong tin,Dak Lak
+41021486,Le Nguyen Hai,Au,12-2-2000,Cong nghe thong tin,Ca Mau
+41021494,Truong Kim,Ngan,15-5-2000,Cong nghe thong tin,Kien Giang
+41021528,Luong Tieu,Phoi,29-11-2000,Cong nghe thong tin,Tay Ninh
+41021607,Nguyen Thi Mong,Diem,6-11-2000,Cong nghe thong tin,Khanh Hoa
+41021720,Huynh Huy,Hoa,24-6-2000,Cong nghe thong tin,Dak Nong
+41021780,Nguyen Thi,Phuong,5-12-2000,Cong nghe thong tin,Bac Kan
+41021813,Dang Thi Quynh,Anh,4-10-2000,Cong nghe thong tin,Dong Thap
+41021888,Pham Thi Thu,Ha,26-9-2000,Cong nghe thong tin,Dak Nong
+41021907,Nguyen Van,Ngoc,7-2-1999,Cong nghe thong tin,Phu Tho
+41021913,Nguyen Thi To,Trang,2-12-2000,Cong nghe thong tin,Can Tho
+41021971,Le Manh,Hoan,4-11-2000,Cong nghe thong tin,Lam Dong
+41021993,Bui Nha Thanh,Truc,16-3-2000,Cong nghe thong tin,Yen Bai
+41021994,Mai Anh,Tuan,30-7-1998,Cong nghe thong tin,Ninh Binh
+41022022,Tran Nguyen Ai,Nhan,15-1-2000,Cong nghe thong tin,Binh Phuoc
+41022073,Pham Le Anh,Tuan,1-4-2000,Cong nghe thong tin,Tien Giang
+41022087,Nguyen Thi Lam,Da,9-2-2000,Cong nghe thong tin,Binh Phuoc
+41022127,Nguyen Viet,Hung,5-3-2000,Cong nghe thong tin,Gia Lai
+41022142,Phan Thi Diem,Thuy,27-9-2000,Cong nghe thong tin,Binh Dinh
+41022157,Tran Ha Nhu,Y,25-4-2000,Cong nghe thong tin,Lang Son
+41022240,Tran Thi Thuy,Duong,14-6-2000,Cong nghe thong tin,Cao Bang
+41022285,Nguyen Thi Thuy,Trang,23-10-1999,Cong nghe thong tin,Binh Duong
+41022289,Tran Nhat,Truong,21-9-2000,Cong nghe thong tin,Cao Bang
+41022382,Dao Quynh,Nhu,11-6-2000,Cong nghe thong tin,Vinh Long
+41022416,Nguyen Thi My,Hanh,14-3-1991,Cong nghe thong tin,Quang Nam
+41022427,Tran Bao,Duong,9-12-2000,Cong nghe thong tin,Ha Tinh
+41022429,Hong Thanh,Nguyen,29-7-2000,Cong nghe thong tin,Ha Giang
+41022497,Dang Le Hoang,Trinh,23-7-2000,Cong nghe thong tin,Hai Phong
+41022558,Truong Nhu,Lieu,24-10-2000,Cong nghe thong tin,Yen Bai
+41022577,Truong Thi Thanh,Thao,26-5-2000,Cong nghe thong tin,Kon Tum
+41022596,Huynh Tan,Hao,11-2-1998,Cong nghe thong tin,TP. Ho Chi Minh
+41022606,Nguyen Huynh Thanh,Thao,8-8-2000,Cong nghe thong tin,Binh Phuoc
+41022638,Bui Dang,Quang,7-8-2000,Cong nghe thong tin,Binh Phuoc
+41022653,Vu Phuong,Thao,2-4-2000,Cong nghe thong tin,Phu Yen
+41022657,Ha Gia,Quyen,19-4-2000,Cong nghe thong tin,Tien Giang
+41022669,Pham Le,Nhi,22-11-2000,Cong nghe thong tin,Ninh Thuan
+41022695,Nguyen Thi Minh,Phuong,18-5-2000,Cong nghe thong tin,Hai Duong
+41022782,Hoang Kim,Chi,17-4-2000,Cong nghe thong tin,Binh Thuan
+41022783,Pham Van,Tuan,6-1-1994,Cong nghe thong tin,Bac Ninh
+41022799,Nguyen Thi Khanh,Linh,21-12-2000,Cong nghe thong tin,Phu Tho
+41022846,Nguyen Thanh,Binh,6-1-2000,Cong nghe thong tin,Kon Tum
+41022858,Huynh Thi Ngoc,Dung,7-5-2000,Cong nghe thong tin,Hoa Binh
+41022869,Truong Huy,Hoang,1-8-2000,Cong nghe thong tin,Quang Ninh
+41022884,Le Ngoc Nhu,Quynh,13-7-2000,Cong nghe thong tin,Thai Binh
+41022955,Tran Pham Xuan,Luan,28-8-1999,Cong nghe thong tin,Dak Nong
+41022994,Truong Thu,Huong,25-11-2000,Cong nghe thong tin,Nam Dinh
+41023001,Nguyen Thi Hong,Van,2-1-2000,Cong nghe thong tin,Binh Dinh
+41023016,Ngo Dieu,Minh,1-2-1994,Cong nghe thong tin,Son La
+41023017,Nguyen Thi Huynh,Trang,3-1-2000,Cong nghe thong tin,Cao Bang
+41023021,Huynh Khanh,Linh,17-11-2000,Cong nghe thong tin,Ha Giang
+41023057,Nguyen Huu Cong,Thanh,11-4-2000,Cong nghe thong tin,Quang Ninh
+41023058,Dao Ngoc Cam,Tu,27-3-1996,Cong nghe thong tin,Kien Giang
+41023087,Nguyen Phan Dinh,Dat,13-8-2000,Cong nghe thong tin,Phu Tho
+41023136,Vo Thi Kim,Son,17-11-2000,Cong nghe thong tin,Son La
+41023140,Bui Dinh Quoc,Duy,19-10-2000,Cong nghe thong tin,Ha Giang
+41023147,Ngo My,Nu,11-12-2000,Cong nghe thong tin,Ba Ria - Vung Tau
+41023175,Pham Thi,Thu,27-4-2000,Cong nghe thong tin,Soc Trang
+41023213,Le Van,Co,1-3-1998,Cong nghe thong tin,Hai Phong
+41023241,Pham Thanh,Thanh,1-4-1999,Cong nghe thong tin,Soc Trang
+41023266,Pham Hoang A,Tien,7-9-2000,Cong nghe thong tin,Hoa Binh
+41023277,Nguyen Ngoc Anh,Thu,25-7-2000,Cong nghe thong tin,Lam Dong
+41023289,Tran Gia Hoang,Kim,19-8-2000,Cong nghe thong tin,Ca Mau
+41023295,Nguyen Thi Minh,Ngoc,28-1-1997,Cong nghe thong tin,Bac Lieu
+41023298,Doan Phuong,Linh,20-5-2000,Cong nghe thong tin,Lang Son
+41023328,Nguyen Thuy,Trang,29-12-2000,Cong nghe thong tin,Ben Tre
+41023357,Dao Ngoc,Trong,28-11-2000,Cong nghe thong tin,Quang Tri
+41023459,Tran Thi Ngoc,Ha,17-9-2000,Cong nghe thong tin,Lai Chau
+41023487,Le Hoai,Phong,11-5-2000,Cong nghe thong tin,Lao Cai
+41023521,Doan Huyen,Trang,27-2-2000,Cong nghe thong tin,Thai Nguyen
+41023545,Nguyen Dinh,Hai,1-10-2000,Cong nghe thong tin,Ba Ria - Vung Tau
+41023549,Pham Thanh,Loan,30-4-1996,Cong nghe thong tin,Lang Son
+41023617,Thieu Thi Thu,Thao,26-7-1999,Cong nghe thong tin,Binh Thuan
+21020011,Ka,Thi,13-8-2000,Cong nghe thong tin,Tra Vinh
+21020758,Le Quang,Bac,14-5-2000,Cong nghe thong tin,Vinh Phuc
+21021902,Tran Thanh,Sang,17-9-1999,Cong nghe thong tin,Quang Binh
+31020080,Nguyen Hoang,Trung,13-12-1999,Cong nghe thong tin,Dong Nai
+31020658,Nguyen Thi Diem,Thuong,29-11-1999,Cong nghe thong tin,Vinh Phuc
+31021203,Tran Nguyen Thuy,Duong,30-6-1999,Cong nghe thong tin,Dong Nai
+31021360,Le Quang,Duy,24-6-1999,Cong nghe thong tin,Soc Trang
+31021696,Le Cong Quoc,Tuan,11-5-1999,Cong nghe thong tin,Quang Ngai
+31021795,Tu Thi Yen,Nhi,3-12-1999,Cong nghe thong tin,Dong Nai
+31022070,Nguyen Quoc,Bao,27-3-1999,Cong nghe thong tin,Binh Duong
+31022073,Nguyen Hoang Anh,Thu,12-9-1999,Cong nghe thong tin,Quang Ngai
+31022298,Nguyen Huu,Thang,31-1-1999,Cong nghe thong tin,Bac Giang
+31022303,Nguyen Cam,Huong,18-7-1999,Cong nghe thong tin,Ben Tre
+31022494,Nguyen Ngoc,Nguyen,14-5-1999,Cong nghe thong tin,Tra Vinh
+31022659,Nguyen Thien,Thanh,4-4-1999,Cong nghe thong tin,Phu Yen
+31023048,Huynh Huy Yen,Anh,20-6-1999,Cong nghe thong tin,Thua Thien - Hue
+31023402,Nguyen Thi Hoang,Dung,16-1-2000,Cong nghe thong tin,Binh Thuan
+31023516,Le Thi Yen,Nhi,21-2-1999,Cong nghe thong tin,Gia Lai
+31023788,Xayyasane,Choulaphon,21-1-2000,Cong nghe thong tin,Ha Nam
+41020011,Nguyen Thanh,Nhan,13-11-2000,Cong nghe thong tin,Kien Giang
+41020014,Vy Danh,Dang,12-8-2000,Cong nghe thong tin,Ben Tre
+41020025,Bui Thi Thao,Trinh,10-9-2000,Cong nghe thong tin,Ninh Thuan
+41020094,Nguyen Thi Ngoc,Lan,5-7-2000,Cong nghe thong tin,Quang Ninh
+41020098,Nguyen Huu Minh,Phu,17-4-2000,Cong nghe thong tin,Phu Yen
+41020157,Cao Tuan,Anh,9-9-2000,Cong nghe thong tin,Can Tho
+41020194,Nguyen Thi Kieu,Oanh,1-10-1999,Cong nghe thong tin,Phu Yen
+41020195,Tran Nhu Kim,Su,11-10-1995,Cong nghe thong tin,Bac Lieu
+41020256,Chau Huynh,Khang,8-1-2000,Cong nghe thong tin,Lao Cai
+41020282,Chung Thoai,Chuong,16-4-2000,Cong nghe thong tin,Dong Nai
+41020323,Nguyen Thi Thanh,Thao,10-12-2000,Cong nghe thong tin,Phu Yen
+41020324,Tran Thi Kieu,Loan,24-2-2000,Cong nghe thong tin,Thai Binh
+41020365,Trinh Thi Thuy,Duong,28-10-2000,Cong nghe thong tin,Thua Thien - Hue
+41020373,Le Thi,Hiep,19-10-2000,Cong nghe thong tin,Gia Lai
+41020379,Tran Thi Khanh,Vy,19-12-2000,Cong nghe thong tin,Phu Yen
+41020419,Phan Xuan,Mai,5-7-2000,Cong nghe thong tin,Gia Lai
+41020435,Nguyen Thi Ngoc,Huyen,18-9-1999,Cong nghe thong tin,Phu Yen
+41020447,Hap Tien,Linh,23-12-2000,Cong nghe thong tin,Ba Ria - Vung Tau
+41020471,Le Ngoc Thuy,Duong,8-2-2000,Cong nghe thong tin,Ha Nam
+41020536,Nguyen Tien,Tu,16-1-2000,Cong nghe thong tin,Ha Giang
+41020562,Pham Hoang,Hao,24-3-1999,Cong nghe thong tin,Hoa Binh
+41020591,Huynh Ba,Thong,31-7-2000,Cong nghe thong tin,Ha Giang
+41020613,Pham Thai,Dang,6-8-2000,Cong nghe thong tin,Dak Nong
+41020660,Nguyen Nguyen Thai,Thanh,23-10-2000,Cong nghe thong tin,Thanh Hoa
+41020692,Tran Thi Tu,Linh,25-8-2000,Cong nghe thong tin,Dak Lak
+41020717,Truong Thi Minh,Thu,14-1-2000,Cong nghe thong tin,Lang Son
+41020729,Duong Dieu,Hoang,15-8-2000,Cong nghe thong tin,Binh Thuan
+41020732,Pham Van,Giang,7-8-2000,Cong nghe thong tin,Thanh Hoa
+41020735,Nguyen Thao,Vy,8-3-2000,Cong nghe thong tin,Quang Ngai
+41020758,Pham Huynh Bao,Han,28-5-2000,Cong nghe thong tin,Ca Mau
+41020766,Pham Thi,Phan,30-12-2000,Cong nghe thong tin,Thua Thien - Hue
+41020768,Le Nguyen,Hao,24-10-2000,Cong nghe thong tin,Dien Bien
+41020774,Doan Thi Nhu,Hang,17-3-2000,Cong nghe thong tin,Quang Binh
+41020793,Nguyen Thi My,Dung,23-4-2000,Cong nghe thong tin,Ben Tre
+41020869,Cao Hong,Nhi,23-10-2000,Cong nghe thong tin,Binh Phuoc
+41020893,Nguyen Minh,Tram,21-10-2000,Cong nghe thong tin,Dak Nong
+41020918,Nguyen Thi Huong,Ly,25-5-2000,Cong nghe thong tin,Bac Lieu
+41020989,Y Khuol Nie,Eban,18-3-2000,Cong nghe thong tin,Nghe An
+41021032,Pham Nguyen Mai,Ngoc,11-11-2000,Cong nghe thong tin,Bac Lieu
+41021039,Vo Thi Minh,Thuy,31-3-2000,Cong nghe thong tin,Binh Dinh
+41021086,Doan Thanh,Nhat,21-10-2000,Cong nghe thong tin,Ha Noi
+41021098,Nguyen Thi Nhu,Thao,9-2-2000,Cong nghe thong tin,Quang Ninh
+41021203,Nguyen Trong,Nghia,13-10-1999,Cong nghe thong tin,Binh Duong
+41021271,Nguyen Thi Diem,My,4-11-1999,Cong nghe thong tin,Quang Binh
+41021324,Le Tran Boi,Quynh,12-8-2000,Cong nghe thong tin,Quang Tri
+41021333,Nong Thi,Lien,18-2-1999,Cong nghe thong tin,Binh Phuoc
+41021338,Nguyen Thi Thuy,Duong,3-1-2000,Cong nghe thong tin,Ninh Binh
+41021399,Nguyen Yen,Vi,15-3-2000,Cong nghe thong tin,Phu Yen
+41021434,Nguyen Thi Thanh,Thuan,18-9-2000,Cong nghe thong tin,Ben Tre
+41021439,Tran Hoang Tran,Le,27-2-2000,Cong nghe thong tin,Binh Duong
+41021458,Nguyen Thi Thu,Huynh,20-8-2000,Cong nghe thong tin,Ninh Binh
+41021463,Chu Thi Thanh,Thuy,17-3-2000,Cong nghe thong tin,Ha Nam
+41021466,Le Thi Kim,Lien,11-11-2000,Cong nghe thong tin,Dak Lak
+41021486,Le Nguyen Hai,Au,12-2-2000,Cong nghe thong tin,Ca Mau
+41021494,Truong Kim,Ngan,15-5-2000,Cong nghe thong tin,Kien Giang
+41021528,Luong Tieu,Phoi,29-11-2000,Cong nghe thong tin,Tay Ninh
+41021607,Nguyen Thi Mong,Diem,6-11-2000,Cong nghe thong tin,Khanh Hoa
+41021720,Huynh Huy,Hoa,24-6-2000,Cong nghe thong tin,Dak Nong
+41021780,Nguyen Thi,Phuong,5-12-2000,Cong nghe thong tin,Bac Kan
+41021813,Dang Thi Quynh,Anh,4-10-2000,Cong nghe thong tin,Dong Thap
+41021888,Pham Thi Thu,Ha,26-9-2000,Cong nghe thong tin,Dak Nong
+41021907,Nguyen Van,Ngoc,7-2-1999,Cong nghe thong tin,Phu Tho
+41021913,Nguyen Thi To,Trang,2-12-2000,Cong nghe thong tin,Can Tho
+41021971,Le Manh,Hoan,4-11-2000,Cong nghe thong tin,Lam Dong
+41021993,Bui Nha Thanh,Truc,16-3-2000,Cong nghe thong tin,Yen Bai
+41021994,Mai Anh,Tuan,30-7-1998,Cong nghe thong tin,Ninh Binh
+41022022,Tran Nguyen Ai,Nhan,15-1-2000,Cong nghe thong tin,Binh Phuoc
+41022073,Pham Le Anh,Tuan,1-4-2000,Cong nghe thong tin,Tien Giang
+41022087,Nguyen Thi Lam,Da,9-2-2000,Cong nghe thong tin,Binh Phuoc
+41022127,Nguyen Viet,Hung,5-3-2000,Cong nghe thong tin,Gia Lai
+41022142,Phan Thi Diem,Thuy,27-9-2000,Cong nghe thong tin,Binh Dinh
+41022157,Tran Ha Nhu,Y,25-4-2000,Cong nghe thong tin,Lang Son
+41022240,Tran Thi Thuy,Duong,14-6-2000,Cong nghe thong tin,Cao Bang
+41022285,Nguyen Thi Thuy,Trang,23-10-1999,Cong nghe thong tin,Binh Duong
+41022289,Tran Nhat,Truong,21-9-2000,Cong nghe thong tin,Cao Bang
+41022382,Dao Quynh,Nhu,11-6-2000,Cong nghe thong tin,Vinh Long
+41022416,Nguyen Thi My,Hanh,14-3-1991,Cong nghe thong tin,Quang Nam
+41022427,Tran Bao,Duong,9-12-2000,Cong nghe thong tin,Ha Tinh
+41022429,Hong Thanh,Nguyen,29-7-2000,Cong nghe thong tin,Ha Giang
+41022497,Dang Le Hoang,Trinh,23-7-2000,Cong nghe thong tin,Hai Phong
+41022558,Truong Nhu,Lieu,24-10-2000,Cong nghe thong tin,Yen Bai
+41022577,Truong Thi Thanh,Thao,26-5-2000,Cong nghe thong tin,Kon Tum
+41022596,Huynh Tan,Hao,11-2-1998,Cong nghe thong tin,TP. Ho Chi Minh
+41022606,Nguyen Huynh Thanh,Thao,8-8-2000,Cong nghe thong tin,Binh Phuoc
+41022638,Bui Dang,Quang,7-8-2000,Cong nghe thong tin,Binh Phuoc
+41022653,Vu Phuong,Thao,2-4-2000,Cong nghe thong tin,Phu Yen
+41022657,Ha Gia,Quyen,19-4-2000,Cong nghe thong tin,Tien Giang
+41022669,Pham Le,Nhi,22-11-2000,Cong nghe thong tin,Ninh Thuan
+41022695,Nguyen Thi Minh,Phuong,18-5-2000,Cong nghe thong tin,Hai Duong
+41022782,Hoang Kim,Chi,17-4-2000,Cong nghe thong tin,Binh Thuan
+41022783,Pham Van,Tuan,6-1-1994,Cong nghe thong tin,Bac Ninh
+41022799,Nguyen Thi Khanh,Linh,21-12-2000,Cong nghe thong tin,Phu Tho
+41022846,Nguyen Thanh,Binh,6-1-2000,Cong nghe thong tin,Kon Tum
+41022858,Huynh Thi Ngoc,Dung,7-5-2000,Cong nghe thong tin,Hoa Binh
+41022869,Truong Huy,Hoang,1-8-2000,Cong nghe thong tin,Quang Ninh
+41022884,Le Ngoc Nhu,Quynh,13-7-2000,Cong nghe thong tin,Thai Binh
+41022955,Tran Pham Xuan,Luan,28-8-1999,Cong nghe thong tin,Dak Nong
+41022994,Truong Thu,Huong,25-11-2000,Cong nghe thong tin,Nam Dinh
+41023001,Nguyen Thi Hong,Van,2-1-2000,Cong nghe thong tin,Binh Dinh
+41023016,Ngo Dieu,Minh,1-2-1994,Cong nghe thong tin,Son La
+41023017,Nguyen Thi Huynh,Trang,3-1-2000,Cong nghe thong tin,Cao Bang
+41023021,Huynh Khanh,Linh,17-11-2000,Cong nghe thong tin,Ha Giang
+41023057,Nguyen Huu Cong,Thanh,11-4-2000,Cong nghe thong tin,Quang Ninh
+41023058,Dao Ngoc Cam,Tu,27-3-1996,Cong nghe thong tin,Kien Giang
+41023087,Nguyen Phan Dinh,Dat,13-8-2000,Cong nghe thong tin,Phu Tho
+41023136,Vo Thi Kim,Son,17-11-2000,Cong nghe thong tin,Son La
+41023140,Bui Dinh Quoc,Duy,19-10-2000,Cong nghe thong tin,Ha Giang
+41023147,Ngo My,Nu,11-12-2000,Cong nghe thong tin,Ba Ria - Vung Tau
+41023175,Pham Thi,Thu,27-4-2000,Cong nghe thong tin,Soc Trang
+41023213,Le Van,Co,1-3-1998,Cong nghe thong tin,Hai Phong
+41023241,Pham Thanh,Thanh,1-4-1999,Cong nghe thong tin,Soc Trang
+41023266,Pham Hoang A,Tien,7-9-2000,Cong nghe thong tin,Hoa Binh
+41023277,Nguyen Ngoc Anh,Thu,25-7-2000,Cong nghe thong tin,Lam Dong
+41023289,Tran Gia Hoang,Kim,19-8-2000,Cong nghe thong tin,Ca Mau
+41023295,Nguyen Thi Minh,Ngoc,28-1-1997,Cong nghe thong tin,Bac Lieu
+41023298,Doan Phuong,Linh,20-5-2000,Cong nghe thong tin,Lang Son
+41023328,Nguyen Thuy,Trang,29-12-2000,Cong nghe thong tin,Ben Tre
+41023357,Dao Ngoc,Trong,28-11-2000,Cong nghe thong tin,Quang Tri
+41023459,Tran Thi Ngoc,Ha,17-9-2000,Cong nghe thong tin,Lai Chau
+41023487,Le Hoai,Phong,11-5-2000,Cong nghe thong tin,Lao Cai
+41023521,Doan Huyen,Trang,27-2-2000,Cong nghe thong tin,Thai Nguyen
+41023545,Nguyen Dinh,Hai,1-10-2000,Cong nghe thong tin,Ba Ria - Vung Tau
+41023549,Pham Thanh,Loan,30-4-1996,Cong nghe thong tin,Lang Son
+41023617,Thieu Thi Thu,Thao,26-7-1999,Cong nghe thong tin,Binh Thuan
+21020011,Ka,Thi,13-8-2000,Cong nghe thong tin,Tra Vinh
+21020758,Le Quang,Bac,14-5-2000,Cong nghe thong tin,Vinh Phuc
+21021902,Tran Thanh,Sang,17-9-1999,Cong nghe thong tin,Quang Binh
+31020080,Nguyen Hoang,Trung,13-12-1999,Cong nghe thong tin,Dong Nai
+31020658,Nguyen Thi Diem,Thuong,29-11-1999,Cong nghe thong tin,Vinh Phuc
+31021203,Tran Nguyen Thuy,Duong,30-6-1999,Cong nghe thong tin,Dong Nai
+31021360,Le Quang,Duy,24-6-1999,Cong nghe thong tin,Soc Trang
+31021696,Le Cong Quoc,Tuan,11-5-1999,Cong nghe thong tin,Quang Ngai
+31021795,Tu Thi Yen,Nhi,3-12-1999,Cong nghe thong tin,Dong Nai
+31022070,Nguyen Quoc,Bao,27-3-1999,Cong nghe thong tin,Binh Duong
+31022073,Nguyen Hoang Anh,Thu,12-9-1999,Cong nghe thong tin,Quang Ngai
+31022298,Nguyen Huu,Thang,31-1-1999,Cong nghe thong tin,Bac Giang
+31022303,Nguyen Cam,Huong,18-7-1999,Cong nghe thong tin,Ben Tre
+31022494,Nguyen Ngoc,Nguyen,14-5-1999,Cong nghe thong tin,Tra Vinh
+31022659,Nguyen Thien,Thanh,4-4-1999,Cong nghe thong tin,Phu Yen
+31023048,Huynh Huy Yen,Anh,20-6-1999,Cong nghe thong tin,Thua Thien - Hue
+31023402,Nguyen Thi Hoang,Dung,16-1-2000,Cong nghe thong tin,Binh Thuan
+31023516,Le Thi Yen,Nhi,21-2-1999,Cong nghe thong tin,Gia Lai
+31023788,Xayyasane,Choulaphon,21-1-2000,Cong nghe thong tin,Ha Nam
+41020011,Nguyen Thanh,Nhan,13-11-2000,Cong nghe thong tin,Kien Giang
+41020014,Vy Danh,Dang,12-8-2000,Cong nghe thong tin,Ben Tre
+41020025,Bui Thi Thao,Trinh,10-9-2000,Cong nghe thong tin,Ninh Thuan
+41020094,Nguyen Thi Ngoc,Lan,5-7-2000,Cong nghe thong tin,Quang Ninh
+41020098,Nguyen Huu Minh,Phu,17-4-2000,Cong nghe thong tin,Phu Yen
+41020157,Cao Tuan,Anh,9-9-2000,Cong nghe thong tin,Can Tho
+41020194,Nguyen Thi Kieu,Oanh,1-10-1999,Cong nghe thong tin,Phu Yen
+41020195,Tran Nhu Kim,Su,11-10-1995,Cong nghe thong tin,Bac Lieu
+41020256,Chau Huynh,Khang,8-1-2000,Cong nghe thong tin,Lao Cai
+41020282,Chung Thoai,Chuong,16-4-2000,Cong nghe thong tin,Dong Nai
+41020323,Nguyen Thi Thanh,Thao,10-12-2000,Cong nghe thong tin,Phu Yen
+41020324,Tran Thi Kieu,Loan,24-2-2000,Cong nghe thong tin,Thai Binh
+41020365,Trinh Thi Thuy,Duong,28-10-2000,Cong nghe thong tin,Thua Thien - Hue
+41020373,Le Thi,Hiep,19-10-2000,Cong nghe thong tin,Gia Lai
+41020379,Tran Thi Khanh,Vy,19-12-2000,Cong nghe thong tin,Phu Yen
+41020419,Phan Xuan,Mai,5-7-2000,Cong nghe thong tin,Gia Lai
+41020435,Nguyen Thi Ngoc,Huyen,18-9-1999,Cong nghe thong tin,Phu Yen
+41020447,Hap Tien,Linh,23-12-2000,Cong nghe thong tin,Ba Ria - Vung Tau
+41020471,Le Ngoc Thuy,Duong,8-2-2000,Cong nghe thong tin,Ha Nam
+41020536,Nguyen Tien,Tu,16-1-2000,Cong nghe thong tin,Ha Giang
+41020562,Pham Hoang,Hao,24-3-1999,Cong nghe thong tin,Hoa Binh
+41020591,Huynh Ba,Thong,31-7-2000,Cong nghe thong tin,Ha Giang
+41020613,Pham Thai,Dang,6-8-2000,Cong nghe thong tin,Dak Nong
+41020660,Nguyen Nguyen Thai,Thanh,23-10-2000,Cong nghe thong tin,Thanh Hoa
+41020692,Tran Thi Tu,Linh,25-8-2000,Cong nghe thong tin,Dak Lak
+41020717,Truong Thi Minh,Thu,14-1-2000,Cong nghe thong tin,Lang Son
+41020729,Duong Dieu,Hoang,15-8-2000,Cong nghe thong tin,Binh Thuan
+41020732,Pham Van,Giang,7-8-2000,Cong nghe thong tin,Thanh Hoa
+41020735,Nguyen Thao,Vy,8-3-2000,Cong nghe thong tin,Quang Ngai
+41020758,Pham Huynh Bao,Han,28-5-2000,Cong nghe thong tin,Ca Mau
+41020766,Pham Thi,Phan,30-12-2000,Cong nghe thong tin,Thua Thien - Hue
+41020768,Le Nguyen,Hao,24-10-2000,Cong nghe thong tin,Dien Bien
+41020774,Doan Thi Nhu,Hang,17-3-2000,Cong nghe thong tin,Quang Binh
+41020793,Nguyen Thi My,Dung,23-4-2000,Cong nghe thong tin,Ben Tre
+41020869,Cao Hong,Nhi,23-10-2000,Cong nghe thong tin,Binh Phuoc
+41020893,Nguyen Minh,Tram,21-10-2000,Cong nghe thong tin,Dak Nong
+41020918,Nguyen Thi Huong,Ly,25-5-2000,Cong nghe thong tin,Bac Lieu
+41020989,Y Khuol Nie,Eban,18-3-2000,Cong nghe thong tin,Nghe An
+41021032,Pham Nguyen Mai,Ngoc,11-11-2000,Cong nghe thong tin,Bac Lieu
+41021039,Vo Thi Minh,Thuy,31-3-2000,Cong nghe thong tin,Binh Dinh
+41021086,Doan Thanh,Nhat,21-10-2000,Cong nghe thong tin,Ha Noi
+41021098,Nguyen Thi Nhu,Thao,9-2-2000,Cong nghe thong tin,Quang Ninh
+41021203,Nguyen Trong,Nghia,13-10-1999,Cong nghe thong tin,Binh Duong
+41021271,Nguyen Thi Diem,My,4-11-1999,Cong nghe thong tin,Quang Binh
+41021324,Le Tran Boi,Quynh,12-8-2000,Cong nghe thong tin,Quang Tri
+41021333,Nong Thi,Lien,18-2-1999,Cong nghe thong tin,Binh Phuoc
+41021338,Nguyen Thi Thuy,Duong,3-1-2000,Cong nghe thong tin,Ninh Binh
+41021399,Nguyen Yen,Vi,15-3-2000,Cong nghe thong tin,Phu Yen
+41021434,Nguyen Thi Thanh,Thuan,18-9-2000,Cong nghe thong tin,Ben Tre
+41021439,Tran Hoang Tran,Le,27-2-2000,Cong nghe thong tin,Binh Duong
+41021458,Nguyen Thi Thu,Huynh,20-8-2000,Cong nghe thong tin,Ninh Binh
+41021463,Chu Thi Thanh,Thuy,17-3-2000,Cong nghe thong tin,Ha Nam
+41021466,Le Thi Kim,Lien,11-11-2000,Cong nghe thong tin,Dak Lak
+41021486,Le Nguyen Hai,Au,12-2-2000,Cong nghe thong tin,Ca Mau
+41021494,Truong Kim,Ngan,15-5-2000,Cong nghe thong tin,Kien Giang
+41021528,Luong Tieu,Phoi,29-11-2000,Cong nghe thong tin,Tay Ninh
+41021607,Nguyen Thi Mong,Diem,6-11-2000,Cong nghe thong tin,Khanh Hoa
+41021720,Huynh Huy,Hoa,24-6-2000,Cong nghe thong tin,Dak Nong
+41021780,Nguyen Thi,Phuong,5-12-2000,Cong nghe thong tin,Bac Kan
+41021813,Dang Thi Quynh,Anh,4-10-2000,Cong nghe thong tin,Dong Thap
+41021888,Pham Thi Thu,Ha,26-9-2000,Cong nghe thong tin,Dak Nong
+41021907,Nguyen Van,Ngoc,7-2-1999,Cong nghe thong tin,Phu Tho
+41021913,Nguyen Thi To,Trang,2-12-2000,Cong nghe thong tin,Can Tho
+41021971,Le Manh,Hoan,4-11-2000,Cong nghe thong tin,Lam Dong
+41021993,Bui Nha Thanh,Truc,16-3-2000,Cong nghe thong tin,Yen Bai
+41021994,Mai Anh,Tuan,30-7-1998,Cong nghe thong tin,Ninh Binh
+41022022,Tran Nguyen Ai,Nhan,15-1-2000,Cong nghe thong tin,Binh Phuoc
+41022073,Pham Le Anh,Tuan,1-4-2000,Cong nghe thong tin,Tien Giang
+41022087,Nguyen Thi Lam,Da,9-2-2000,Cong nghe thong tin,Binh Phuoc
+41022127,Nguyen Viet,Hung,5-3-2000,Cong nghe thong tin,Gia Lai
+41022142,Phan Thi Diem,Thuy,27-9-2000,Cong nghe thong tin,Binh Dinh
+41022157,Tran Ha Nhu,Y,25-4-2000,Cong nghe thong tin,Lang Son
+41022240,Tran Thi Thuy,Duong,14-6-2000,Cong nghe thong tin,Cao Bang
+41022285,Nguyen Thi Thuy,Trang,23-10-1999,Cong nghe thong tin,Binh Duong
+41022289,Tran Nhat,Truong,21-9-2000,Cong nghe thong tin,Cao Bang
+41022382,Dao Quynh,Nhu,11-6-2000,Cong nghe thong tin,Vinh Long
+41022416,Nguyen Thi My,Hanh,14-3-1991,Cong nghe thong tin,Quang Nam
+41022427,Tran Bao,Duong,9-12-2000,Cong nghe thong tin,Ha Tinh
+41022429,Hong Thanh,Nguyen,29-7-2000,Cong nghe thong tin,Ha Giang
+41022497,Dang Le Hoang,Trinh,23-7-2000,Cong nghe thong tin,Hai Phong
+41022558,Truong Nhu,Lieu,24-10-2000,Cong nghe thong tin,Yen Bai
+41022577,Truong Thi Thanh,Thao,26-5-2000,Cong nghe thong tin,Kon Tum
+41022596,Huynh Tan,Hao,11-2-1998,Cong nghe thong tin,TP. Ho Chi Minh
+41022606,Nguyen Huynh Thanh,Thao,8-8-2000,Cong nghe thong tin,Binh Phuoc
+41022638,Bui Dang,Quang,7-8-2000,Cong nghe thong tin,Binh Phuoc
+41022653,Vu Phuong,Thao,2-4-2000,Cong nghe thong tin,Phu Yen
+41022657,Ha Gia,Quyen,19-4-2000,Cong nghe thong tin,Tien Giang
+41022669,Pham Le,Nhi,22-11-2000,Cong nghe thong tin,Ninh Thuan
+41022695,Nguyen Thi Minh,Phuong,18-5-2000,Cong nghe thong tin,Hai Duong
+41022782,Hoang Kim,Chi,17-4-2000,Cong nghe thong tin,Binh Thuan
+41022783,Pham Van,Tuan,6-1-1994,Cong nghe thong tin,Bac Ninh
+41022799,Nguyen Thi Khanh,Linh,21-12-2000,Cong nghe thong tin,Phu Tho
+41022846,Nguyen Thanh,Binh,6-1-2000,Cong nghe thong tin,Kon Tum
+41022858,Huynh Thi Ngoc,Dung,7-5-2000,Cong nghe thong tin,Hoa Binh
+41022869,Truong Huy,Hoang,1-8-2000,Cong nghe thong tin,Quang Ninh
+41022884,Le Ngoc Nhu,Quynh,13-7-2000,Cong nghe thong tin,Thai Binh
+41022955,Tran Pham Xuan,Luan,28-8-1999,Cong nghe thong tin,Dak Nong
+41022994,Truong Thu,Huong,25-11-2000,Cong nghe thong tin,Nam Dinh
+41023001,Nguyen Thi Hong,Van,2-1-2000,Cong nghe thong tin,Binh Dinh
+41023016,Ngo Dieu,Minh,1-2-1994,Cong nghe thong tin,Son La
+41023017,Nguyen Thi Huynh,Trang,3-1-2000,Cong nghe thong tin,Cao Bang
+41023021,Huynh Khanh,Linh,17-11-2000,Cong nghe thong tin,Ha Giang
+41023057,Nguyen Huu Cong,Thanh,11-4-2000,Cong nghe thong tin,Quang Ninh
+41023058,Dao Ngoc Cam,Tu,27-3-1996,Cong nghe thong tin,Kien Giang
+41023087,Nguyen Phan Dinh,Dat,13-8-2000,Cong nghe thong tin,Phu Tho
+41023136,Vo Thi Kim,Son,17-11-2000,Cong nghe thong tin,Son La
+41023140,Bui Dinh Quoc,Duy,19-10-2000,Cong nghe thong tin,Ha Giang
+41023147,Ngo My,Nu,11-12-2000,Cong nghe thong tin,Ba Ria - Vung Tau
+41023175,Pham Thi,Thu,27-4-2000,Cong nghe thong tin,Soc Trang
+41023213,Le Van,Co,1-3-1998,Cong nghe thong tin,Hai Phong
+41023241,Pham Thanh,Thanh,1-4-1999,Cong nghe thong tin,Soc Trang
+41023266,Pham Hoang A,Tien,7-9-2000,Cong nghe thong tin,Hoa Binh
+41023277,Nguyen Ngoc Anh,Thu,25-7-2000,Cong nghe thong tin,Lam Dong
+41023289,Tran Gia Hoang,Kim,19-8-2000,Cong nghe thong tin,Ca Mau
+41023295,Nguyen Thi Minh,Ngoc,28-1-1997,Cong nghe thong tin,Bac Lieu
+41023298,Doan Phuong,Linh,20-5-2000,Cong nghe thong tin,Lang Son
+41023328,Nguyen Thuy,Trang,29-12-2000,Cong nghe thong tin,Ben Tre
+41023357,Dao Ngoc,Trong,28-11-2000,Cong nghe thong tin,Quang Tri
+41023459,Tran Thi Ngoc,Ha,17-9-2000,Cong nghe thong tin,Lai Chau
+41023487,Le Hoai,Phong,11-5-2000,Cong nghe thong tin,Lao Cai
+41023521,Doan Huyen,Trang,27-2-2000,Cong nghe thong tin,Thai Nguyen
+41023545,Nguyen Dinh,Hai,1-10-2000,Cong nghe thong tin,Ba Ria - Vung Tau
+41023549,Pham Thanh,Loan,30-4-1996,Cong nghe thong tin,Lang Son
+41023617,Thieu Thi Thu,Thao,26-7-1999,Cong nghe thong tin,Binh Thuan
+21020011,Ka,Thi,13-8-2000,Cong nghe thong tin,Tra Vinh
+21020758,Le Quang,Bac,14-5-2000,Cong nghe thong tin,Vinh Phuc
+21021902,Tran Thanh,Sang,17-9-1999,Cong nghe thong tin,Quang Binh
+31020080,Nguyen Hoang,Trung,13-12-1999,Cong nghe thong tin,Dong Nai
+31020658,Nguyen Thi Diem,Thuong,29-11-1999,Cong nghe thong tin,Vinh Phuc
+31021203,Tran Nguyen Thuy,Duong,30-6-1999,Cong nghe thong tin,Dong Nai
+31021360,Le Quang,Duy,24-6-1999,Cong nghe thong tin,Soc Trang
+31021696,Le Cong Quoc,Tuan,11-5-1999,Cong nghe thong tin,Quang Ngai
+31021795,Tu Thi Yen,Nhi,3-12-1999,Cong nghe thong tin,Dong Nai
+31022070,Nguyen Quoc,Bao,27-3-1999,Cong nghe thong tin,Binh Duong
+31022073,Nguyen Hoang Anh,Thu,12-9-1999,Cong nghe thong tin,Quang Ngai
+31022298,Nguyen Huu,Thang,31-1-1999,Cong nghe thong tin,Bac Giang
+31022303,Nguyen Cam,Huong,18-7-1999,Cong nghe thong tin,Ben Tre
+31022494,Nguyen Ngoc,Nguyen,14-5-1999,Cong nghe thong tin,Tra Vinh
+31022659,Nguyen Thien,Thanh,4-4-1999,Cong nghe thong tin,Phu Yen
+21020011,Ka,Thi,13-8-2000,Cong nghe thong tin,Tra Vinh
+21020758,Le Quang,Bac,14-5-2000,Cong nghe thong tin,Vinh Phuc
+21021902,Tran Thanh,Sang,17-9-1999,Cong nghe thong tin,Quang Binh
+31020080,Nguyen Hoang,Trung,13-12-1999,Cong nghe thong tin,Dong Nai
+31020658,Nguyen Thi Diem,Thuong,29-11-1999,Cong nghe thong tin,Vinh Phuc
+31021203,Tran Nguyen Thuy,Duong,30-6-1999,Cong nghe thong tin,Dong Nai
+31021360,Le Quang,Duy,24-6-1999,Cong nghe thong tin,Soc Trang
+31021696,Le Cong Quoc,Tuan,11-5-1999,Cong nghe thong tin,Quang Ngai
+31021795,Tu Thi Yen,Nhi,3-12-1999,Cong nghe thong tin,Dong Nai
+31022070,Nguyen Quoc,Bao,27-3-1999,Cong nghe thong tin,Binh Duong
+31022073,Nguyen Hoang Anh,Thu,12-9-1999,Cong nghe thong tin,Quang Ngai
+31022298,Nguyen Huu,Thang,31-1-1999,Cong nghe thong tin,Bac Giang
+31022303,Nguyen Cam,Huong,18-7-1999,Cong nghe thong tin,Ben Tre
+31022494,Nguyen Ngoc,Nguyen,14-5-1999,Cong nghe thong tin,Tra Vinh
+31022659,Nguyen Thien,Thanh,4-4-1999,Cong nghe thong tin,Phu Yen
+31023048,Huynh Huy Yen,Anh,20-6-1999,Cong nghe thong tin,Thua Thien - Hue
+31023402,Nguyen Thi Hoang,Dung,16-1-2000,Cong nghe thong tin,Binh Thuan
+31023516,Le Thi Yen,Nhi,21-2-1999,Cong nghe thong tin,Gia Lai
+31023788,Xayyasane,Choulaphon,21-1-2000,Cong nghe thong tin,Ha Nam
+41020011,Nguyen Thanh,Nhan,13-11-2000,Cong nghe thong tin,Kien Giang
+41020014,Vy Danh,Dang,12-8-2000,Cong nghe thong tin,Ben Tre
+41020025,Bui Thi Thao,Trinh,10-9-2000,Cong nghe thong tin,Ninh Thuan
+41020094,Nguyen Thi Ngoc,Lan,5-7-2000,Cong nghe thong tin,Quang Ninh
+41020098,Nguyen Huu Minh,Phu,17-4-2000,Cong nghe thong tin,Phu Yen
+41020157,Cao Tuan,Anh,9-9-2000,Cong nghe thong tin,Can Tho
+41020194,Nguyen Thi Kieu,Oanh,1-10-1999,Cong nghe thong tin,Phu Yen
+41020195,Tran Nhu Kim,Su,11-10-1995,Cong nghe thong tin,Bac Lieu
+41020256,Chau Huynh,Khang,8-1-2000,Cong nghe thong tin,Lao Cai
+41020282,Chung Thoai,Chuong,16-4-2000,Cong nghe thong tin,Dong Nai
+41020323,Nguyen Thi Thanh,Thao,10-12-2000,Cong nghe thong tin,Phu Yen
+41020324,Tran Thi Kieu,Loan,24-2-2000,Cong nghe thong tin,Thai Binh
+41020365,Trinh Thi Thuy,Duong,28-10-2000,Cong nghe thong tin,Thua Thien - Hue
+41020373,Le Thi,Hiep,19-10-2000,Cong nghe thong tin,Gia Lai
+41020379,Tran Thi Khanh,Vy,19-12-2000,Cong nghe thong tin,Phu Yen
+41020419,Phan Xuan,Mai,5-7-2000,Cong nghe thong tin,Gia Lai
+41020435,Nguyen Thi Ngoc,Huyen,18-9-1999,Cong nghe thong tin,Phu Yen
+41020447,Hap Tien,Linh,23-12-2000,Cong nghe thong tin,Ba Ria - Vung Tau
+41020471,Le Ngoc Thuy,Duong,8-2-2000,Cong nghe thong tin,Ha Nam
+41020536,Nguyen Tien,Tu,16-1-2000,Cong nghe thong tin,Ha Giang
+41020562,Pham Hoang,Hao,24-3-1999,Cong nghe thong tin,Hoa Binh
+41020591,Huynh Ba,Thong,31-7-2000,Cong nghe thong tin,Ha Giang
+41020613,Pham Thai,Dang,6-8-2000,Cong nghe thong tin,Dak Nong
+41020660,Nguyen Nguyen Thai,Thanh,23-10-2000,Cong nghe thong tin,Thanh Hoa
+41020692,Tran Thi Tu,Linh,25-8-2000,Cong nghe thong tin,Dak Lak
+41020717,Truong Thi Minh,Thu,14-1-2000,Cong nghe thong tin,Lang Son
+41020729,Duong Dieu,Hoang,15-8-2000,Cong nghe thong tin,Binh Thuan
+41020732,Pham Van,Giang,7-8-2000,Cong nghe thong tin,Thanh Hoa
+41020735,Nguyen Thao,Vy,8-3-2000,Cong nghe thong tin,Quang Ngai
+41020758,Pham Huynh Bao,Han,28-5-2000,Cong nghe thong tin,Ca Mau
+41020766,Pham Thi,Phan,30-12-2000,Cong nghe thong tin,Thua Thien - Hue
+41020768,Le Nguyen,Hao,24-10-2000,Cong nghe thong tin,Dien Bien
+41020774,Doan Thi Nhu,Hang,17-3-2000,Cong nghe thong tin,Quang Binh
+41020793,Nguyen Thi My,Dung,23-4-2000,Cong nghe thong tin,Ben Tre
+41020869,Cao Hong,Nhi,23-10-2000,Cong nghe thong tin,Binh Phuoc
+41020893,Nguyen Minh,Tram,21-10-2000,Cong nghe thong tin,Dak Nong
+41020918,Nguyen Thi Huong,Ly,25-5-2000,Cong nghe thong tin,Bac Lieu
+41020989,Y Khuol Nie,Eban,18-3-2000,Cong nghe thong tin,Nghe An
+41021032,Pham Nguyen Mai,Ngoc,11-11-2000,Cong nghe thong tin,Bac Lieu
+41021039,Vo Thi Minh,Thuy,31-3-2000,Cong nghe thong tin,Binh Dinh
+41021086,Doan Thanh,Nhat,21-10-2000,Cong nghe thong tin,Ha Noi
+41021098,Nguyen Thi Nhu,Thao,9-2-2000,Cong nghe thong tin,Quang Ninh
+41021203,Nguyen Trong,Nghia,13-10-1999,Cong nghe thong tin,Binh Duong
+41021271,Nguyen Thi Diem,My,4-11-1999,Cong nghe thong tin,Quang Binh
+41021324,Le Tran Boi,Quynh,12-8-2000,Cong nghe thong tin,Quang Tri
+41021333,Nong Thi,Lien,18-2-1999,Cong nghe thong tin,Binh Phuoc
+41021338,Nguyen Thi Thuy,Duong,3-1-2000,Cong nghe thong tin,Ninh Binh
+41021399,Nguyen Yen,Vi,15-3-2000,Cong nghe thong tin,Phu Yen
+41021434,Nguyen Thi Thanh,Thuan,18-9-2000,Cong nghe thong tin,Ben Tre
+41021439,Tran Hoang Tran,Le,27-2-2000,Cong nghe thong tin,Binh Duong
+41021458,Nguyen Thi Thu,Huynh,20-8-2000,Cong nghe thong tin,Ninh Binh
+41021463,Chu Thi Thanh,Thuy,17-3-2000,Cong nghe thong tin,Ha Nam
+41021466,Le Thi Kim,Lien,11-11-2000,Cong nghe thong tin,Dak Lak
+41021486,Le Nguyen Hai,Au,12-2-2000,Cong nghe thong tin,Ca Mau
+41021494,Truong Kim,Ngan,15-5-2000,Cong nghe thong tin,Kien Giang
+41021528,Luong Tieu,Phoi,29-11-2000,Cong nghe thong tin,Tay Ninh
+41021607,Nguyen Thi Mong,Diem,6-11-2000,Cong nghe thong tin,Khanh Hoa
+41021720,Huynh Huy,Hoa,24-6-2000,Cong nghe thong tin,Dak Nong
+41021780,Nguyen Thi,Phuong,5-12-2000,Cong nghe thong tin,Bac Kan
+41021813,Dang Thi Quynh,Anh,4-10-2000,Cong nghe thong tin,Dong Thap
+41021888,Pham Thi Thu,Ha,26-9-2000,Cong nghe thong tin,Dak Nong
+41021907,Nguyen Van,Ngoc,7-2-1999,Cong nghe thong tin,Phu Tho
+41021913,Nguyen Thi To,Trang,2-12-2000,Cong nghe thong tin,Can Tho
+41021971,Le Manh,Hoan,4-11-2000,Cong nghe thong tin,Lam Dong
+41021993,Bui Nha Thanh,Truc,16-3-2000,Cong nghe thong tin,Yen Bai
+41021994,Mai Anh,Tuan,30-7-1998,Cong nghe thong tin,Ninh Binh
+41022022,Tran Nguyen Ai,Nhan,15-1-2000,Cong nghe thong tin,Binh Phuoc
+41022073,Pham Le Anh,Tuan,1-4-2000,Cong nghe thong tin,Tien Giang
+41022087,Nguyen Thi Lam,Da,9-2-2000,Cong nghe thong tin,Binh Phuoc
+41022127,Nguyen Viet,Hung,5-3-2000,Cong nghe thong tin,Gia Lai
+41022142,Phan Thi Diem,Thuy,27-9-2000,Cong nghe thong tin,Binh Dinh
+41022157,Tran Ha Nhu,Y,25-4-2000,Cong nghe thong tin,Lang Son
+41022240,Tran Thi Thuy,Duong,14-6-2000,Cong nghe thong tin,Cao Bang
+41022285,Nguyen Thi Thuy,Trang,23-10-1999,Cong nghe thong tin,Binh Duong
+41022289,Tran Nhat,Truong,21-9-2000,Cong nghe thong tin,Cao Bang
+41022382,Dao Quynh,Nhu,11-6-2000,Cong nghe thong tin,Vinh Long
+41022416,Nguyen Thi My,Hanh,14-3-1991,Cong nghe thong tin,Quang Nam
+41022427,Tran Bao,Duong,9-12-2000,Cong nghe thong tin,Ha Tinh
+41022429,Hong Thanh,Nguyen,29-7-2000,Cong nghe thong tin,Ha Giang
+41022497,Dang Le Hoang,Trinh,23-7-2000,Cong nghe thong tin,Hai Phong
+41022558,Truong Nhu,Lieu,24-10-2000,Cong nghe thong tin,Yen Bai
+41022577,Truong Thi Thanh,Thao,26-5-2000,Cong nghe thong tin,Kon Tum
+41022596,Huynh Tan,Hao,11-2-1998,Cong nghe thong tin,TP. Ho Chi Minh
+41022606,Nguyen Huynh Thanh,Thao,8-8-2000,Cong nghe thong tin,Binh Phuoc
+41022638,Bui Dang,Quang,7-8-2000,Cong nghe thong tin,Binh Phuoc
+41022653,Vu Phuong,Thao,2-4-2000,Cong nghe thong tin,Phu Yen
+41022657,Ha Gia,Quyen,19-4-2000,Cong nghe thong tin,Tien Giang
+41022669,Pham Le,Nhi,22-11-2000,Cong nghe thong tin,Ninh Thuan
+41022695,Nguyen Thi Minh,Phuong,18-5-2000,Cong nghe thong tin,Hai Duong
+41022782,Hoang Kim,Chi,17-4-2000,Cong nghe thong tin,Binh Thuan
+41022783,Pham Van,Tuan,6-1-1994,Cong nghe thong tin,Bac Ninh
+41022799,Nguyen Thi Khanh,Linh,21-12-2000,Cong nghe thong tin,Phu Tho
+41022846,Nguyen Thanh,Binh,6-1-2000,Cong nghe thong tin,Kon Tum
+41022858,Huynh Thi Ngoc,Dung,7-5-2000,Cong nghe thong tin,Hoa Binh
+41022869,Truong Huy,Hoang,1-8-2000,Cong nghe thong tin,Quang Ninh
+41022884,Le Ngoc Nhu,Quynh,13-7-2000,Cong nghe thong tin,Thai Binh
+41022955,Tran Pham Xuan,Luan,28-8-1999,Cong nghe thong tin,Dak Nong
+41022994,Truong Thu,Huong,25-11-2000,Cong nghe thong tin,Nam Dinh
+41023001,Nguyen Thi Hong,Van,2-1-2000,Cong nghe thong tin,Binh Dinh
+41023016,Ngo Dieu,Minh,1-2-1994,Cong nghe thong tin,Son La
+41023017,Nguyen Thi Huynh,Trang,3-1-2000,Cong nghe thong tin,Cao Bang
+41023021,Huynh Khanh,Linh,17-11-2000,Cong nghe thong tin,Ha Giang
+41023057,Nguyen Huu Cong,Thanh,11-4-2000,Cong nghe thong tin,Quang Ninh
+41023058,Dao Ngoc Cam,Tu,27-3-1996,Cong nghe thong tin,Kien Giang
+41023087,Nguyen Phan Dinh,Dat,13-8-2000,Cong nghe thong tin,Phu Tho
+41023136,Vo Thi Kim,Son,17-11-2000,Cong nghe thong tin,Son La
+41023140,Bui Dinh Quoc,Duy,19-10-2000,Cong nghe thong tin,Ha Giang
+41023147,Ngo My,Nu,11-12-2000,Cong nghe thong tin,Ba Ria - Vung Tau
+41023175,Pham Thi,Thu,27-4-2000,Cong nghe thong tin,Soc Trang
+41023213,Le Van,Co,1-3-1998,Cong nghe thong tin,Hai Phong
+41023241,Pham Thanh,Thanh,1-4-1999,Cong nghe thong tin,Soc Trang
+41023266,Pham Hoang A,Tien,7-9-2000,Cong nghe thong tin,Hoa Binh
+41023277,Nguyen Ngoc Anh,Thu,25-7-2000,Cong nghe thong tin,Lam Dong
+41023289,Tran Gia Hoang,Kim,19-8-2000,Cong nghe thong tin,Ca Mau
+41023295,Nguyen Thi Minh,Ngoc,28-1-1997,Cong nghe thong tin,Bac Lieu
+41023298,Doan Phuong,Linh,20-5-2000,Cong nghe thong tin,Lang Son
+41023328,Nguyen Thuy,Trang,29-12-2000,Cong nghe thong tin,Ben Tre
+41023357,Dao Ngoc,Trong,28-11-2000,Cong nghe thong tin,Quang Tri
+41023459,Tran Thi Ngoc,Ha,17-9-2000,Cong nghe thong tin,Lai Chau
+41023487,Le Hoai,Phong,11-5-2000,Cong nghe thong tin,Lao Cai
+41023521,Doan Huyen,Trang,27-2-2000,Cong nghe thong tin,Thai Nguyen
+41023545,Nguyen Dinh,Hai,1-10-2000,Cong nghe thong tin,Ba Ria - Vung Tau
+41023549,Pham Thanh,Loan,30-4-1996,Cong nghe thong tin,Lang Son
+41023617,Thieu Thi Thu,Thao,26-7-1999,Cong nghe thong tin,Binh Thuan

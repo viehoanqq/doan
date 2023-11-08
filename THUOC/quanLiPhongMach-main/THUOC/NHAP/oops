@@ -1,0 +1,36 @@
+package THUOC.NHAP;
+import java.util.Scanner;
+
+import THUOC.DANHSACHTHUOC;
+public class ChiTietPhieuNhap {
+    private String maPhieuNhap;
+    THUOC [] dsThuocNhap;
+    int soLoaiThuocNhap=0;
+    public void nhap(DANHSACHTHUOC danhSachThuocLon)
+    {
+        Scanner input  = new Scanner(System.in);
+        System.out.print("Ma phieu nhap: ");
+        maPhieuNhap = input.nextLine();
+        System.out.print("So loai thuoc nhap: ");
+        soLoaiThuocNhap = input.nextInt();
+        for(int i=0;i<soLoaiThuocNhap;i++)
+        {
+           System.out.print("Ma thuoc: ");
+           String maThuoc = input.nextLine();
+           if (danhSachThuocLon.timThuocTheoMa(maThuoc) != null)
+           {
+                System.out.print("So luong: ");
+                int soLuong = input.nextInt();
+                dsThuocNhap[i].setSoLuong(soLuong);
+                danhSachThuocLon.addSoLuongThuoc(danhSachThuocLon.timThuocTheoMaTraVeViTrI(maThuoc),soLuong);
+
+                System.out.print("Gia nhap hang / 1 : ");
+                double giaCa = input.nextDouble();
+                dsThuocNhap[i].setGiaCa(i);(input.nextDouble());
+           }
+    
+        }
+    }
+    
+
+}
