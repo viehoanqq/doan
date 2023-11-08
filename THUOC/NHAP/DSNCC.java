@@ -13,6 +13,7 @@ public class DSNCC {
             write = new PrintWriter(file);
         } catch(Exception e){
             System.out.println("LOi mo file!");
+            return;
         }
         write.println(soLuongNCC);
         for (int i=0;i<soLuongNCC;i++)
@@ -31,6 +32,7 @@ public class DSNCC {
             read = new Scanner(file);
         } catch(Exception e){
             System.out.println("Khong the mo file!");
+            return;
         }
         if (read.hasNextLine())
         {
@@ -80,8 +82,7 @@ public class DSNCC {
         }
     }
     public static void main(String[] args) {
-        DSNCC test = new DSNCC();
-       
+        DSNCC test = new DSNCC();      
         test.xuat();
     }
 }

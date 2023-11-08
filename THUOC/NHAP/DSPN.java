@@ -20,6 +20,7 @@ public class DSPN {
             write = new PrintWriter(file);
         } catch(Exception e){
             System.out.println("loi ghi file!");
+            return;
         }
         write.println(soLuong);
         for (int i=0;i<soLuong;i++)

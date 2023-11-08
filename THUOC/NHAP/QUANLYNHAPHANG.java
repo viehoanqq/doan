@@ -22,6 +22,11 @@ public class QUANLYNHAPHANG
             i = input.nextInt();
             switch(i)
             {
+                case 0:
+                {
+                    QUANLIDSTHUOC ql = new QUANLIDSTHUOC();
+                    ql.menu();;
+                }
                 case 1:
                 { 
                 
